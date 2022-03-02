@@ -1,1 +1,2 @@
-alert("salam")
+alert("salam");
+alert("sagol");
